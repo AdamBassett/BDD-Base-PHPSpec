@@ -17,6 +17,7 @@ Now you can start your first describe.
 
 Run PHPSpec again to creat the class
 ```vendor/bit/phpspce```
+
 PHPSpec will fail and ask if you want to creat the class.
 Say yes.
 
