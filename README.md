@@ -13,10 +13,10 @@ Install Composer Packages
 ```composer install```
 
 Now you can start your first describe.
-``` vendor/bit/phpspce desc <Class Name>```
+``` vendor/bit/phpspce desc <Class Name> ```
 
 Run PHPSpec again to creat the class
-```vendor/bit/phpspce```
+``` vendor/bit/phpspce ```
 
 PHPSpec will fail and ask if you want to creat the class.
 Say yes.
