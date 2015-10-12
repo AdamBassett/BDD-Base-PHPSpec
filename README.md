@@ -12,11 +12,12 @@ Install Gulp and Gulp addons
 Install Composer Packages
 ```composer install```
 
+Note: Creating an alias to the ```vendor/bit/phpspec``` is highly recomened.  These instructiosn assume no alias.
 Now you can start your first describe.
-``` vendor/bit/phpspce desc <Class Name> ```
+``` vendor/bit/phpspec desc <Class Name> ```
 
 Run PHPSpec again to creat the class
-``` vendor/bit/phpspce ```
+``` vendor/bit/phpspec ```
 
 PHPSpec will fail and ask if you want to creat the class.
 Say yes.
