@@ -1,0 +1,5 @@
+suites:
+    default:
+        namespace:''
+        spec_path:%spec_path%\tests
+        psr4_prefix:null
