@@ -13,6 +13,7 @@ Install Composer Packages
 ```composer install```
 
 Note: Creating an alias to the ```vendor/bit/phpspec``` is highly recomened.  These instructiosn assume no alias.
+
 Now you can start your first describe.
 ``` vendor/bit/phpspec desc <Class Name> ```
 
